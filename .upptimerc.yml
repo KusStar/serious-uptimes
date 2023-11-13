@@ -7,6 +7,10 @@ sites:
     url: https://uselessthing.top/
   - name: Rewind
     url: https://rewind.uselessthing.top/
+  - name: Krids
+    url: https://krids.ueslessthing.top/
+  - name: Krude
+    url: https://krude.uselessthing.top/
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
