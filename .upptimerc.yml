@@ -28,7 +28,7 @@ status-website:
       href: https://github.com/KusStar/serious-uptimes
 
 workflowSchedule:
-  uptime: "* */8 * * *"
+  uptime: "0 */4 * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
