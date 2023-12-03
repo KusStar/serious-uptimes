@@ -4,7 +4,7 @@
     "url": "https://uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/uselessthing.top.ico",
     "slug": "useless-thing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 426,
     "timeMonth": 450,
     "timeYear": 450,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-03": 0
+    }
   },
   {
     "name": "Rewind",
