@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/uselessthing.top.ico",
     "slug": "useless-thing",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 447,
-    "timeDay": 400,
-    "timeWeek": 449,
-    "timeMonth": 441,
-    "timeYear": 447,
+    "uptimeYear": "99.79%",
+    "time": 452,
+    "timeDay": 777,
+    "timeWeek": 497,
+    "timeMonth": 453,
+    "timeYear": 452,
     "dailyMinutesDown": {
       "2023-12-03": 176
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 316,
-    "timeWeek": 286,
-    "timeMonth": 308,
-    "timeYear": 302,
+    "time": 300,
+    "timeDay": 155,
+    "timeWeek": 263,
+    "timeMonth": 302,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 305,
-    "timeDay": 322,
-    "timeWeek": 336,
+    "timeDay": 306,
+    "timeWeek": 335,
     "timeMonth": 321,
     "timeYear": 305,
     "dailyMinutesDown": {}
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 268,
-    "timeDay": 345,
-    "timeWeek": 329,
-    "timeMonth": 291,
-    "timeYear": 268,
+    "time": 266,
+    "timeDay": 133,
+    "timeWeek": 303,
+    "timeMonth": 283,
+    "timeYear": 266,
     "dailyMinutesDown": {}
   }
 ]
