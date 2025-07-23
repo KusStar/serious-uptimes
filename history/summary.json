@@ -4,27 +4,29 @@
     "url": "https://uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/uselessthing.top.ico",
     "slug": "useless-thing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 572,
-    "timeWeek": 389,
-    "timeMonth": 401,
+    "time": 358,
+    "timeDay": 444,
+    "timeWeek": 380,
+    "timeMonth": 398,
     "timeYear": 334,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "Rewind",
     "url": "https://rewind.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/rewind.uselessthing.top.ico",
     "slug": "rewind",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,42 +35,48 @@
     "timeWeek": 456,
     "timeMonth": 352,
     "timeYear": 301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "Krids",
     "url": "https://krids.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/krids.uselessthing.top.ico",
     "slug": "krids",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 272,
-    "timeWeek": 364,
-    "timeMonth": 364,
+    "timeDay": 287,
+    "timeWeek": 356,
+    "timeMonth": 362,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   },
   {
     "name": "Krude",
     "url": "https://krude.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/krude.uselessthing.top.ico",
     "slug": "krude",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 555,
-    "timeWeek": 373,
-    "timeMonth": 343,
+    "timeDay": 430,
+    "timeWeek": 364,
+    "timeMonth": 341,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-23": 0
+    }
   }
 ]
