@@ -4,19 +4,19 @@
     "url": "https://uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/uselessthing.top.ico",
     "slug": "useless-thing",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "88.04%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
     "time": 358,
-    "timeDay": 444,
-    "timeWeek": 380,
-    "timeMonth": 398,
+    "timeDay": 284,
+    "timeWeek": 362,
+    "timeMonth": 395,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 172
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rewind.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/rewind.uselessthing.top.ico",
     "slug": "rewind",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
     "time": 314,
-    "timeDay": 926,
-    "timeWeek": 456,
-    "timeMonth": 352,
+    "timeDay": 417,
+    "timeWeek": 468,
+    "timeMonth": 354,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 172
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://krids.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/krids.uselessthing.top.ico",
     "slug": "krids",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 293,
-    "timeDay": 287,
-    "timeWeek": 356,
-    "timeMonth": 362,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
+    "time": 294,
+    "timeDay": 340,
+    "timeWeek": 362,
+    "timeMonth": 363,
     "timeYear": 288,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 172
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://krude.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/krude.uselessthing.top.ico",
     "slug": "krude",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 290,
-    "timeDay": 430,
-    "timeWeek": 364,
-    "timeMonth": 341,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "88.03%",
+    "uptimeWeek": "98.29%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.97%",
+    "time": 289,
+    "timeDay": 207,
+    "timeWeek": 338,
+    "timeMonth": 333,
     "timeYear": 279,
     "dailyMinutesDown": {
-      "2025-07-23": 0
+      "2025-07-23": 172
     }
   }
 ]
