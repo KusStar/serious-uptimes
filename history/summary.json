@@ -24,9 +24,9 @@
     "url": "https://rewind.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/rewind.uselessthing.top.ico",
     "slug": "rewind",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +36,7 @@
     "timeMonth": 556,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-07-23": 172
     }
   },
