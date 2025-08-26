@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 360,
-    "timeDay": 709,
-    "timeWeek": 464,
-    "timeMonth": 419,
-    "timeYear": 336,
+    "timeDay": 638,
+    "timeWeek": 477,
+    "timeMonth": 424,
+    "timeYear": 337,
     "dailyMinutesDown": {
       "2025-07-23": 172
     }
@@ -24,19 +24,19 @@
     "url": "https://rewind.uselessthing.top/",
     "icon": "https://icons.duckduckgo.com/ip3/rewind.uselessthing.top.ico",
     "slug": "rewind",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "97.83%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.93%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "88.13%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.89%",
     "time": 322,
-    "timeDay": 708,
-    "timeWeek": 527,
-    "timeMonth": 553,
+    "timeDay": 606,
+    "timeWeek": 524,
+    "timeMonth": 551,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-08-26": 0,
+      "2025-08-26": 171,
       "2025-08-25": 218,
       "2025-07-23": 172
     }
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 300,
-    "timeDay": 582,
-    "timeWeek": 484,
-    "timeMonth": 417,
-    "timeYear": 298,
+    "timeDay": 350,
+    "timeWeek": 438,
+    "timeMonth": 408,
+    "timeYear": 297,
     "dailyMinutesDown": {
       "2025-07-23": 172
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 305,
-    "timeDay": 588,
-    "timeWeek": 434,
-    "timeMonth": 509,
+    "timeDay": 528,
+    "timeWeek": 439,
+    "timeMonth": 508,
     "timeYear": 296,
     "dailyMinutesDown": {
       "2025-07-23": 172
