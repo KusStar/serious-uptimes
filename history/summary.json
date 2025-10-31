@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/uselessthing.top.ico",
     "slug": "useless-thing",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 366,
-    "timeDay": 409,
-    "timeWeek": 477,
-    "timeMonth": 578,
+    "timeDay": 391,
+    "timeWeek": 472,
+    "timeMonth": 572,
     "timeYear": 357,
-    "dailyMinutesDown": {
-      "2025-07-23": 172
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rewind",
@@ -31,10 +29,10 @@
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.83%",
     "time": 358,
-    "timeDay": 322,
-    "timeWeek": 582,
-    "timeMonth": 670,
-    "timeYear": 369,
+    "timeDay": 584,
+    "timeWeek": 627,
+    "timeMonth": 667,
+    "timeYear": 370,
     "dailyMinutesDown": {
       "2025-10-17": 171,
       "2025-08-31": 149,
@@ -49,19 +47,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/krids.uselessthing.top.ico",
     "slug": "krids",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 310,
-    "timeDay": 358,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 311,
-    "dailyMinutesDown": {
-      "2025-07-23": 172
-    }
+    "uptimeYear": "100.00%",
+    "time": 311,
+    "timeDay": 640,
+    "timeWeek": 425,
+    "timeMonth": 401,
+    "timeYear": 312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Krude",
@@ -69,18 +65,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/krude.uselessthing.top.ico",
     "slug": "krude",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 404,
-    "timeWeek": 331,
+    "timeDay": 372,
+    "timeWeek": 365,
     "timeMonth": 369,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2025-07-23": 172
-    }
+    "dailyMinutesDown": {}
   }
 ]
